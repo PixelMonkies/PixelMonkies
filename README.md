@@ -1,0 +1,2 @@
+- 👋 Welcome to the offical Pixel Monkies Github account!
+- ⚡ If you somehow found this please don't steal any code you find here!
